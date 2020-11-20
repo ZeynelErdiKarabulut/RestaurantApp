@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="application_name" translatable="false">Pastry Shop</string>
+    <string name="transition_name_close_button" translatable="false">close_btn</string>
+    <string name="transition_name_home_card_view" translatable="false">card</string>
+    <string name="transition_name_home_card_title" translatable="false">main</string>
+    <string name="transition_name_home_card_description" translatable="false">descr</string>
+    <string name="transition_name_home_card_image" translatable="false">image</string>
+    <string name="github_repo_link" translatable="false">https://github.com/ZeynelErdiKarabulut/PastryShop</string>
+</resources>

@@ -1,0 +1,10 @@
+
+
+<resources>
+    <dimen name="home_cards_image_max_height">180dp</dimen>
+    <dimen name="home_card_width">200dp</dimen>
+    <dimen name="detail_image_flipper_height">200dp</dimen>
+    <dimen name="home_toolbar_height">120dp</dimen>
+
+    <dimen name="details_card_width">@dimen/match_parent</dimen>
+</resources>
